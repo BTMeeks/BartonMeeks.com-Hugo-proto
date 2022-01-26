@@ -1,0 +1,4 @@
+baseURL = 'http://BartonMeeks.com/'
+languageCode = 'en-us'
+title = 'Barton Meeks'
+theme = "ananke"
